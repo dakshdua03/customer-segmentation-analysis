@@ -1,4 +1,5 @@
-## Customer Segmentation 😊 😡 🙄 
+## Customer Segmentation 
+
 ### Introduction
 The online retail dataset was collected from kaggle [here](https://www.kaggle.com/datasets/jihyeseo/online-retail-data-set-from-uci-ml-repo). The dataset content contain a company data that mainly sells unique all-occassion gifts. With majority of the customers been wholesalers.
 
